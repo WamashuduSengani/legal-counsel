@@ -45,12 +45,13 @@ const Page = () => {
               </Stack>
 
             </Stack>
+            {/* <Typography variant="h4">Example questions: What are the terms and conditions of my employment contract?</Typography> */}
 
-
+            <Typography>Example questions: If I get a warning can I be fired from that?</Typography>
             <div style={iframeStyle}>
               {/* Other components or content */}
               <iframe
-                src="legal-counsel-backend-bm94.vercel.app"
+                src="https://legal-counsel-backend-bm94.vercel.app/"
                 width="100%"
                 height="100%"
                 title="Example Iframe"
