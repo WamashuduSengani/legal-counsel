@@ -50,7 +50,7 @@ const Page = () => {
             <div style={iframeStyle}>
               {/* Other components or content */}
               <iframe
-                src="https://legal-counsel-backend.vercel.app/"
+                src="legal-counsel-backend-bm94.vercel.app"
                 width="100%"
                 height="100%"
                 title="Example Iframe"
